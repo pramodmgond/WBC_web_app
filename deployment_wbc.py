@@ -12,7 +12,7 @@ import numpy as np
 
 import keras.utils as image
 
-#models = keras.models.load_model("C:/Users/pramod/Desktop/CV/6-12-22/CATS_DOGS/CATS_DOGS/cnn_27.h5")
+
 
 models = keras.models.load_model("5_class_MOdel.h5")
 
