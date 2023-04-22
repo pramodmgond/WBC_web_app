@@ -65,7 +65,7 @@ if uploaded_file is not None:
          st.write("MONOCYTE")
          
     else:
-        st.write("NEUTROPHIL")
+        st.write("NEUTROPHILS")
     
 
     st.image(image, caption=f'Uploaded WBC Image prediction ({y_predict})', width = 200)
